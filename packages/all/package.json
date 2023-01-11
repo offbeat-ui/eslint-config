@@ -1,6 +1,6 @@
 {
   "name": "@wjw/eslint-config",
-  "version": "2.4.6",
+  "version": "1.0.1",
   "description": "wjw's ESLint config",
   "keywords": [
     "eslint",
