@@ -1,4 +1,4 @@
-# @wjw/eslint-config
+# @wjw-gavin/eslint-config
 
 ESLint config for JavaScript, TypeScript, Vue 2, Vue 3, Prettier.
 
@@ -8,12 +8,12 @@ Forked from [sxzz/eslint-config](https://github.com/sxzz/eslint-config),
 ## Usage
 
 ```bash
-pnpm i -D @wjw/eslint-config-basic # JavaScript only
+pnpm i -D @wjw-gavin/eslint-config-basic # JavaScript only
 # Or yarn add -D / npm install -D
-pnpm i -D @wjw/eslint-config-ts # JavaScript and TypeScript
-pnpm i -D @wjw/eslint-config-vue # JavaScript, TypeScript and Vue 2/3 (Auto detect)
-pnpm i -D @wjw/eslint-config-prettier # Prettier only
-pnpm i -D @wjw/eslint-config # JavaScript, TypeScript, Vue 2/3 and Prettier
+pnpm i -D @wjw-gavin/eslint-config-ts # JavaScript and TypeScript
+pnpm i -D @wjw-gavin/eslint-config-vue # JavaScript, TypeScript and Vue 2/3 (Auto detect)
+pnpm i -D @wjw-gavin/eslint-config-prettier # Prettier only
+pnpm i -D @wjw-gavin/eslint-config # JavaScript, TypeScript, Vue 2/3 and Prettier
 ```
 
 ## Quick start
@@ -21,14 +21,14 @@ pnpm i -D @wjw/eslint-config # JavaScript, TypeScript, Vue 2/3 and Prettier
 ### Vue 3
 
 ```bash
-pnpm i -D @wjw/eslint-config
+pnpm i -D @wjw-gavin/eslint-config
 ```
 
 ```javascript
 // .eslintrc.js
 module.exports = {
   root: true,
-  extends: ['@wjw/eslint-config'],
+  extends: ['@wjw-gavin/eslint-config'],
   rules: {
     // Your custom rules
   },

@@ -1,3 +1,6 @@
 module.exports = {
-  extends: ['@wjw/eslint-config-vue', '@wjw/eslint-config-prettier'],
+  extends: [
+    '@wjw-gavin/eslint-config-vue',
+    '@wjw-gavin/eslint-config-prettier',
+  ],
 }

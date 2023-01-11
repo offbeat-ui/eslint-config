@@ -1,9 +1,9 @@
 const { defineConfig } = require('eslint-define-config')
-const basic = require('@wjw/eslint-config-basic')
+const basic = require('@wjw-gavin/eslint-config-basic')
 
 module.exports = defineConfig({
   extends: [
-    '@wjw/eslint-config-basic',
+    '@wjw-gavin/eslint-config-basic',
     'plugin:@typescript-eslint/recommended',
   ],
   ignorePatterns: ['auto-import.d.ts', 'components.d.ts'],
