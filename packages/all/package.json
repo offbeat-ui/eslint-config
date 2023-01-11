@@ -1,6 +1,6 @@
 {
-  "name": "@wjw/eslint-config",
-  "version": "1.0.2",
+  "name": "@wjw-gavin/eslint-config",
+  "version": "1.0.3",
   "description": "wjw's ESLint config",
   "keywords": [
     "eslint",
@@ -24,8 +24,8 @@
     "eslint": ">=8.0.0"
   },
   "dependencies": {
-    "@wjw/eslint-config-prettier": "workspace:*",
-    "@wjw/eslint-config-vue": "workspace:*"
+    "@wjw-gavin/eslint-config-prettier": "workspace:*",
+    "@wjw-gavin/eslint-config-vue": "workspace:*"
   },
   "devDependencies": {
     "eslint": "^8.31.0"

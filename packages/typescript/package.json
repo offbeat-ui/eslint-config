@@ -1,6 +1,6 @@
 {
-  "name": "@wjw/eslint-config-ts",
-  "version": "1.0.2",
+  "name": "@wjw-gavin/eslint-config-ts",
+  "version": "1.0.3",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -21,7 +21,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@wjw/eslint-config-basic": "workspace:*",
+    "@wjw-gavin/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.47.1",
     "@typescript-eslint/parser": "^5.47.1",
     "eslint-define-config": "^1.13.0",
