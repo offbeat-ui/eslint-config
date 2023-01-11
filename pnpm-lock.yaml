@@ -4,7 +4,7 @@ importers:
 
   .:
     specifiers:
-      '@wjw-gavin/eslint-config': workspace:*
+      '@wjw-gavin/eslint-config': workspace:^
       '@wjw-gavin/eslint-config-vue': workspace:^
       bumpp: ^8.2.1
       eslint: ^8.31.0

@@ -9,7 +9,6 @@
     "release": "bumpp package.json packages/*/package.json && pnpm publish -r"
   },
   "devDependencies": {
-    "@sxzz/eslint-config": "^2.4.4",
     "@wjw-gavin/eslint-config": "workspace:^",
     "@wjw-gavin/eslint-config-vue": "workspace:^",
     "bumpp": "^8.2.1",
