@@ -1,18 +1,14 @@
 {
-  "name": "@sxzz/eslint-config-ts",
-  "version": "2.4.4",
+  "name": "@wjw/eslint-config-ts",
+  "version": "2.4.5",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "homepage": "https://github.com/sxzz/eslint-config#readme",
-  "bugs": {
-    "url": "https://github.com/sxzz/eslint-config/issues"
-  },
+  "homepage": "https://github.com/wjw-gavin/eslint-config#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sxzz/eslint-config.git"
+    "url": "git+https://github.com/wjw-gavin/eslint-config.git"
   },
-  "author": "三咲智子 <sxzz@sxzz.moe> (https://github.com/sxzz/)",
   "files": [
     "index.js"
   ],
@@ -25,7 +21,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@sxzz/eslint-config-basic": "workspace:*",
+    "@wjw/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.47.1",
     "@typescript-eslint/parser": "^5.47.1",
     "eslint-define-config": "^1.13.0",
