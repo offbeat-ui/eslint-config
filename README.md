@@ -2,7 +2,7 @@
 
 ESLint config for JavaScript, TypeScript, Vue 2, Vue 3, Prettier.
 
-Forked from [sxzz/eslint-config](https://github.com/sxzz/eslint-config)
+Forked from [sxzz/eslint-config](https://github.com/sxzz/eslint-config), 
 [antfu/eslint-config](https://github.com/antfu/eslint-config)
 
 ## Usage
