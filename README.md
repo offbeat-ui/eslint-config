@@ -39,7 +39,8 @@ module.exports = {
 // .prettierrc
 {
   "semi": false,
-  "singleQuote": true
+  "singleQuote": true,
+  "trailingComma": "none"
 }
 ```
 
@@ -55,9 +56,6 @@ module.exports = {
     "typescriptreact",
     "html",
     "vue",
-    "json",
-    "json5",
-    "jsonc",
     "yaml"
   ],
   "eslint.probe": [
@@ -67,9 +65,6 @@ module.exports = {
     "typescriptreact",
     "html",
     "vue",
-    "json",
-    "json5",
-    "jsonc",
     "yaml"
   ]
 }
