@@ -23,11 +23,9 @@
   "peerDependencies": {
     "eslint": ">=8.0.0"
   },
-  "dependencies": {
-    "@wjw-gavin/eslint-config-prettier": "workspace:*",
-    "@wjw-gavin/eslint-config-vue": "workspace:*"
-  },
   "devDependencies": {
-    "eslint": "^8.31.0"
+    "@wjw-gavin/eslint-config-prettier": "workspace:*",
+    "@wjw-gavin/eslint-config-vue": "workspace:*",
+    "eslint": "^8.34.0"
   }
 }
