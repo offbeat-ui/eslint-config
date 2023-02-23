@@ -56,6 +56,9 @@ module.exports = {
     "typescriptreact",
     "html",
     "vue",
+    "json",
+    "json5",
+    "jsonc",
     "yaml"
   ],
   "eslint.probe": [
@@ -65,6 +68,9 @@ module.exports = {
     "typescriptreact",
     "html",
     "vue",
+    "json",
+    "json5",
+    "jsonc",
     "yaml"
   ]
 }
