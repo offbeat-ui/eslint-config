@@ -25,11 +25,13 @@
       "optional": true
     }
   },
-  "devDependencies": {
+  "dependencies": {
     "@wjw-gavin/eslint-config-ts": "workspace:*",
-    "eslint": "^8.34.0",
     "eslint-define-config": "^1.15.0",
     "eslint-plugin-vue": "^9.9.0",
     "local-pkg": "^0.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
   }
 }
