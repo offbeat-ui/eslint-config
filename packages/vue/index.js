@@ -45,7 +45,7 @@ module.exports = defineConfig({
   ],
   extends: [
     vueVersion === 3 ? 'plugin:vue/vue3-recommended' : 'plugin:vue/recommended',
-    '@wjw-gavin/eslint-config-ts',
+    '@offbeat-ui/eslint-config-ts',
   ],
   rules: {
     'vue/max-attributes-per-line': 'off',

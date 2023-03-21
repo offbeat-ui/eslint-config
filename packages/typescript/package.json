@@ -1,13 +1,13 @@
 {
-  "name": "@wjw-gavin/eslint-config-ts",
+  "name": "@offbeat-ui/eslint-config-ts",
   "version": "1.0.9",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "homepage": "https://github.com/wjw-gavin/eslint-config#readme",
+  "homepage": "https://github.com/offbeat-ui/eslint-config#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wjw-gavin/eslint-config.git"
+    "url": "git+https://github.com/offbeat-ui/eslint-config.git"
   },
   "files": [
     "index.js"
@@ -23,7 +23,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
-    "@wjw-gavin/eslint-config-basic": "workspace:*",
+    "@offbeat-ui/eslint-config-basic": "workspace:*",
     "eslint-define-config": "^1.15.0",
     "typescript": "^4.9.5"
   },

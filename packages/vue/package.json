@@ -1,13 +1,13 @@
 {
-  "name": "@wjw-gavin/eslint-config-vue",
+  "name": "@offbeat-ui/eslint-config-vue",
   "version": "1.0.9",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "homepage": "https://github.com/wjw-gavin/eslint-config#readme",
+  "homepage": "https://github.com/offbeat-ui/eslint-config#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wjw-gavin/eslint-config.git"
+    "url": "git+https://github.com/offbeat-ui/eslint-config.git"
   },
   "files": [
     "index.js"
@@ -26,7 +26,7 @@
     }
   },
   "dependencies": {
-    "@wjw-gavin/eslint-config-ts": "workspace:*",
+    "@offbeat-ui/eslint-config-ts": "workspace:*",
     "eslint-define-config": "^1.15.0",
     "eslint-plugin-vue": "^9.9.0",
     "local-pkg": "^0.4.3"

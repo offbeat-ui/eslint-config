@@ -1,17 +1,17 @@
 {
-  "name": "@wjw-gavin/eslint-config",
+  "name": "@offbeat-ui/eslint-config",
   "version": "1.0.9",
-  "description": "wjw's ESLint config",
+  "description": "A ESLint config",
   "keywords": [
     "eslint",
     "config",
     "preset"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/wjw-gavin/eslint-config#readme",
+  "homepage": "https://github.com/offbeat-ui/eslint-config#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wjw-gavin/eslint-config.git"
+    "url": "git+https://github.com/offbeat-ui/eslint-config.git"
   },
   "files": [
     "index.js"
@@ -24,8 +24,8 @@
     "eslint": ">=8.0.0"
   },
   "dependencies": {
-    "@wjw-gavin/eslint-config-prettier": "workspace:*",
-    "@wjw-gavin/eslint-config-vue": "workspace:*"
+    "@offbeat-ui/eslint-config-prettier": "workspace:*",
+    "@offbeat-ui/eslint-config-vue": "workspace:*"
   },
   "devDependencies": {
     "eslint": "^8.34.0"

@@ -1,13 +1,13 @@
 {
-  "name": "@wjw-gavin/eslint-config-basic",
+  "name": "@offbeat-ui/eslint-config-basic",
   "version": "1.0.9",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "homepage": "https://github.com/wjw-gavin/eslint-config#readme",
+  "homepage": "https://github.com/offbeat-ui/eslint-config#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wjw-gavin/eslint-config.git"
+    "url": "git+https://github.com/offbeat-ui/eslint-config.git"
   },
   "files": [
     "index.js"
