@@ -28,6 +28,6 @@
     "@offbeat-ui/eslint-config-vue": "workspace:*"
   },
   "devDependencies": {
-    "eslint": "^8.34.0"
+    "eslint": "^8.39.0"
   }
 }
